@@ -15,7 +15,7 @@ L'immagine sotto mostra l'aspetto di questa pagina:
 
 <br>
 <table align="center"><tr><td> 
-<img src="images/bom_first_screen.png" width="500"><br>
+<img src="images/bom_first_screen.png" width="1000"><br>
 <p align="center" width="100%"><b>Figure 1. Pagina BOM iniziale</b></p>
 </td></tr></table>
 <br>
@@ -27,7 +27,7 @@ magazzino o devono essere acquistati.
 
 <br>
 <table align="center"><tr><td> 
-<img src="images/bom_second_screen.png" width="500"><br>
+<img src="images/bom_second_screen.png" width="1000"><br>
 <p align="center" width="100%"><b>Figure 2. Pagina BOM con report</b></p>
 </td></tr></table>
 <br>
