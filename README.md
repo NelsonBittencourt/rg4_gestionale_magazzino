@@ -4,7 +4,7 @@ Questo repository contiene suggerimenti per il progetto "Gestione Magazzino" cre
 
 Il primo suggerimento riguarda l'implementazione di una Distinta Materiali/Bill of Materials (BOM). 
 
-Per utilizzarlo, è sufficiente:
+Per utilizzarlo, segui questi passaggi:
 
 1) Copiare il file *boms.php* nella cartella "xampp\htdocs\magazzino\warehouse\";
 
