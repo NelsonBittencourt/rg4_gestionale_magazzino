@@ -55,6 +55,7 @@ Il risultato è visibile nelle figure 2 e 3 sottostanti.
 
 Vedere la sezione "Releases".
 
+
 # Crediti e riferimenti
 
 Questo progetto si basa sul originale di RG4Tech (Gabriele Riva).
