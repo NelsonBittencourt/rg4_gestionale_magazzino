@@ -51,6 +51,9 @@ Il risultato è visibile nelle figure 2 e 3 sottostanti.
 </td></tr></table>
 <br>
 
+### Versione > 0.0.1
+
+Vedere la sezione "Releases".
 
 # Crediti e riferimenti
 
